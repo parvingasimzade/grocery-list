@@ -1,0 +1,11 @@
+span {
+    font-size:  0.8em;
+    color: red;
+    padding: 10px;
+    cursor: pointer;
+}
+
+td:first-child {
+    width: 250px;
+    overflow: hidden;
+}
